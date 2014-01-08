@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('../../../../../Vendors/bootstrap/fonts/glyphicons-halflings-regular.eot');
+    src: url('../../../../../Vendors/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded- opentype'), url('../../../../../Vendors/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('../../../../../Vendors/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../../../../../Vendors/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+
+#loginFout span{
+    margin-right:0.1em;
+    padding-top:0.5em;
+    padding-bottom: 0.5em;
+    font-size:0.9em;
+}
+
+#login a:hover{
+    text-decoration: none;
+}
+
+
+.table td{
+    vertical-align: middle;
+}
+
+#items #totaal {
+    font-weight: bold;
+    border-top: 2px solid #eed3d7;
+}
+
+#fRegis{
+    width: 20%;
+}
+
+
+#afrekenenlogin{
+    margin-right: 2em;
+}
+
+
+#content{
+    width: 70%;
+    margin: 0;
+    margin-top: 5em;
+    padding:0;
+}
+
+#cBestelling{
+    margin-top: 5em;
+}
+
+#winkelmandje{
+    position: fixed;
+    width: 22em;
+    top: 10%;
+    right: 5%;
+}
